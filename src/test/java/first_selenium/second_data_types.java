@@ -5,7 +5,7 @@ public class second_data_types {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// premitive data type size remain "fixed"
+		// Primitive data type size remain "fixed"
 		
 		//Boolean data types storage have 1 bit 
 		boolean b1=true;
@@ -24,7 +24,7 @@ public class second_data_types {
 		short a1 = 10000;
 		short a2 = -10000;
 		
-		// Interger data type storage 4 byte
+		// Integer data type storage 4 byte
 		int i = 10;
 		int i2 = -10;
 		
@@ -41,9 +41,9 @@ public class second_data_types {
 		double e1 = 323.23;
 	
 				
-		// non premitive data type
-		// non premitive data type size varies at run time
-		// not premitive data type are derived from premitive not the vise versa
+		// non primitive data type
+		// non primitive data type size varies at run time
+		// not primitive data type are derived from primitive not the vies versa
 		
 		// String 
 		String s1= "java";
@@ -52,18 +52,7 @@ public class second_data_types {
 		String s4="@#$456fhgh";
 		
 		// Array
-		 int z[] = new int[5];
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		 int z[] = new int[5];		
 		
 	}
 

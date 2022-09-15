@@ -5,7 +5,7 @@ public class Identifiers {
 	public static void main(String[] args) {
 		
 		// Identifiers spaces are not allowed
-		// underscore and doller only accept _ $ 
+		// underscore and dollar only accept _ $ 
 		// pre-defined keywords which are reserved cannot be used
 		// 50 keywords are reserved 
 		//catch, char, class, const, continue,
@@ -26,9 +26,6 @@ public class Identifiers {
 		int b$j = 20;
 		
 		// int c@d =90; not acceptable c#h, f&g
-	
-		
-		
 		
 	}
 

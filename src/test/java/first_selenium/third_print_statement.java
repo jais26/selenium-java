@@ -13,8 +13,8 @@ public class third_print_statement {
 		System.out.print("hsjas..........");
 		System.out.println("DHJDHFJDHFJ");
 		
-		// type syso and enter crtl+spacebar it will atomatic write line.
-		// ln is for new line or next line
+		// type syso and enter crtl+spacebar it will automatic write line.
+		// In is for new line or next line
 		
 	
 		
